@@ -12,11 +12,7 @@ Power BI, MySQL and Machine Learning and Deep Learning models. I'm especially ex
   <li>👨‍💻 I'm working on Machine Learning and Deep Learning projects.</li>
   <li>✍🏻 Ask me about Python, Tableau and the other Data Analytics Tools via  tahavenes@gmail.com </li>
  
-  
-
-<h3 align="center">A passionate Data Analyst from Turkey</h3>
-
-- 📫 How to reach me: **tahavenes@gmail.com**
+📫 How to reach me: **tahavenes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

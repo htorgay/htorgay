@@ -5,4 +5,11 @@
 <h3 align="center">Data Analyst</h3>
 
 <p align="justify">I'm a Data Analyst. I like dealing with data by using Python, Tableau, 
-Power BI and Machine Learning models. I'm especially expert in Tableau and Data Storytelling.</p>
+Power BI, MySQL and Machine Learning and Deep Learning models. I'm especially expert in Tableau and Data Storytelling.</p>
+
+<ul>
+  <li>I'm currently preparing a Tableau workbook in Turkish. It's about to finish.</li>
+  <li>I'm working on Machine Learning and Deep Learning projects</li>
+  <li>Ask me about Python, Tableau and the other Data Analytics Tools</li>
+</ul>
+  
